@@ -3,27 +3,33 @@
     "files": [
         {
             "path": ".jpackage.xml",
-           
+            "sha256": "4ec2d497858f8007fc9cfd099c66bed6f840fa11e072dc3ac84458fd09861688",
+            "size": 195
         },
         {
             "path": "animation-core-desktop-1.10.0-a94bab3d67a320ccdc2cc2c2c973bc4.jar",
-            
+            "sha256": "41c0220ddbc55cb897feb0d5816b748f9c11162171f12743c04b50d0d84db628",
+            "size": 383171
         },
         {
             "path": "animation-desktop-1.10.0-a9d19a471d65be1f6362c85c51aedcaf.jar",
-            
+            "sha256": "3ec5254288b1e872263009221f677063ea728f90969598f399a5b02500ebc014",
+            "size": 374645
         },
         {
             "path": "annotation-jvm-1.9.1-1d6a04b3b9847638d0529df8ef76a.jar",
-            
+            "sha256": "1e343917ebf27ba96fe4dc52b1cad7fd32b738fbc6355bb6cd5b3b305d7212d0",
+            "size": 60577
         },
         {
             "path": "annotations-23.0.0-8484cd17d040d837983323f760b2c660.jar",
-           
+            "sha256": "7b0f19724082cbfcbc66e5abea2b9bc92cf08a1ea11e191933ed43801eb3cd05",
+            "size": 29371
         },
         {
             "path": "atomicfu-jvm-0.23.2-5e4f88ed1c37222d791f5dcadf481498.jar",
-            
+            "sha256": "101ff43ff563fca167af5ade98c3b69bf569010eab745013b84d8955034d3b3c",
+            "size": 36181
         },
         {
             "path": "call-jvm-d6506f2317cafec04e35c4cc9963cd3.jar",
@@ -517,50 +523,63 @@
         },
         {
             "path": "runtime-annotation-jvm-1.10.0-b09c69fa8ca14488d4f66081b195f82d.jar",
-       
+            "sha256": "f89dda8bcd73876d0fc16568844b2bd79443ee7ca62810874d25c7dcaa394bd6",
+            "size": 9387
         },
         {
             "path": "runtime-desktop-1.10.0-b9da3d6a1b578bd2c87d566819b76a65.jar",
-          
+            "sha256": "b195860542f612de0512b54a75353e0f6d58815f0c9530a03bc5b0e734474829",
+            "size": 1470711
         },
         {
             "path": "runtime-desktop-1.10.0-c25a54d26562099d86e41defd73c526.jar",
-            
+            "sha256": "05f5570c0a7ea8addd6fe9507a70f293efa7f1450d8b9b16dc3c8fee21cc6127",
+            "size": 416
         },
         {
             "path": "runtime-retain-desktop-1.10.0-d8f31750172c21975cc646addacfd80.jar",
-         
+            "sha256": "463ee9c1e93d1b913458bfecc96d128a3574a802f41c8c9781d7320c3b55ed8b",
+            "size": 52893
         },
         {
             "path": "runtime-saveable-desktop-1.10.0-5e5be575eafc8b52fe238bc51bdea08e.jar",
-          
+            "sha256": "eb7132b55de2b0913736fdff4705022803e455810f018efecc9eb3230936520a",
+            "size": 434
         },
         {
             "path": "runtime-saveable-desktop-1.10.0-db6b23c395f87685dd7a09443777e69.jar",
-            
+            "sha256": "ef24e24cc8c9c3b9871007fbdf589ed9aaaecf95979a66b7484806f9f0e24d91",
+            "size": 53379
         },
         {
             "path": "savedstate-compose-desktop-1.3.3-a131c55f9df3dce54e7daaa9c7f4d17.jar",
-          
+            "sha256": "4a94787a6e5bcfe143390a4f2737d4425d2ea867f2b34a847de6cda3c6ccc58a",
+            "size": 15498
         },
         {
             "path": "savedstate-compose-desktop-1.3.6-8de11644e97845eaa45d9e74fdec755.jar",
-         
+            "sha256": "0f3d045c5fd7e1301ab6c38cd0778067b0484cf39acac1233be71a723a6a8075",
+            "size": 438
         },
         {
-        
+            "path": "savedstate-desktop-1.3.3-c3373bc168f837cab12de655ce867a18.jar",
+            "sha256": "c5c89062ba8402b8f8657efd54db1ff192f91ca95fae59c3b418fbc477c3e3ea",
+            "size": 80175
         },
         {
             "path": "secret-service-1.8.1-jdk17-b157ea0b5eca4edb50f82e2a518896.jar",
-    
+            "sha256": "03ba2ecda8aad358a917d236de854fd746f6e6ccd9a74b62f7c524773330a346",
+            "size": 66422
         },
         {
             "path": "sentry-8.42.0-467d263d7329c173195f180b0ec77.jar",
-    
+            "sha256": "11c9526a984c141c80ea2cb5f768a08002d917f2a4000d669ba14168dde27dfb",
+            "size": 1213444
         },
         {
             "path": "skiko-awt-0.9.37.3-178d7c64e4c735aa3da9c4962f8b9871.jar",
-    
+            "sha256": "cdfe998711c8f0fa84f21745ebcfe6d840d307c4ceea7f0dda3158be2bb2193d",
+            "size": 1213800
         },
         {
             "path": "skiko-awt-runtime-windows-x64-0.9.37.3-673e1838ab454c9fbc2597e319a6893.jar",
@@ -569,53 +588,78 @@
         },
         {
             "path": "skiko-windows-x64.dll",
-    
+            "sha256": "6b31a44bcc7c114ea7f9e450d8105a1e74530b1d388bf81df472890a940d3e9e",
+            "size": 13903872
         },
         {
             "path": "skiko-windows-x64.dll.sha256",
-    
+            "sha256": "284014564fb179a9b9b76d32857ce632dcd8558e6d6d33f829448e1da600e19f",
+            "size": 64
         },
         {
             "path": "slf4j-api-2.0.17-b648d114a23683498ac3f746f959d2f.jar",
-
+            "sha256": "7b751d952061954d5abfed7181c1f645d336091b679891591d63329c622eb832",
+            "size": 69908
         },
         {
             "path": "stately-concurrency-jvm-2.1.0-caa3a637b3459827e138cf78b9f31c55.jar",
-
+            "sha256": "86739675892fb1c17d6bd36d05347e89ff313957421bb01a45a743ce774e8e29",
+            "size": 11382
         },
         {
             "path": "stately-concurrent-collections-jvm-2.1.0-b7acc01ab9a6662528925fb79d422dd1.jar",
+            "sha256": "0e0d9e7f20eaee18f7862309064c8db58ce6a3a861d8871f561546af63df1893",
+            "size": 72445
         },
         {
             "path": "stately-strict-jvm-2.1.0-4aa938e33acc448c4ebd7f76848d22.jar",
+            "sha256": "581070db2802cbad81f6e6e2d9d2494835443153b314458d53aa43c68260c9fa",
+            "size": 1607
         },
         {
             "path": "symbol-processing-api-2.3.4-43fb10762537cdad9a281b442b77ce.jar",
+            "sha256": "a20644569ecc01467d3efe4f8b9787a8719ce27ed12b6a3475ae1d82bfb16a0e",
+            "size": 122413
         },
         {
             "path": "ui-backhandler-desktop-1.10.0-82133368fc2fe04ab219636dc220ee76.jar",
+            "sha256": "1babf68f5a05cbe1ba8cf934f0e575bb0d0b184444514e6aa7ec1f8004c9ce33",
+            "size": 21557
         },
         {
             "path": "ui-desktop-1.10.0-d527672632a4cf324288d3c34be2cf2a.jar",
+            "sha256": "c699d8571082a7f507fbede0b9d567c661f47013a4f3f9b68109b8a0bd828ea8",
+            "size": 3396226
         },
         {
             "path": "ui-geometry-desktop-1.10.0-74cadef60adf77a87e8bba823806b.jar",
+            "sha256": "cdbfdabccac8abef2d9bc0420ec0c4be7a880f6d26b2d1cc4e2317c0d252ee27",
+            "size": 57759
         },
         {
             "path": "ui-graphics-desktop-1.10.0-b16b3125e92315f9a8727cc9c29a69.jar",
+            "sha256": "d1710a4a15b115fc4c37878b32b10a476a0ec3b8399fa1fb588181dba83dbdd2",
+            "size": 628617
         },
         {
             "path": "ui-text-desktop-1.10.0-ee9fdf1915aab4bae39fbce96aeaf7e7.jar",
+            "sha256": "6ee18433659f389621386e759217b3ed5ef0f1e22ea177cad705457dc75aa27b",
+            "size": 718190
         },
         {
             "path": "ui-tooling-preview-desktop-1.10.0-98d4733a7ac1bc0f78fd3bc53ca7966.jar",
+            "sha256": "b5fa6fbbeea5f896ad2a8e7703bd7eb574d3a1b5ab6d44dbe0a07536bd6af6c4",
+            "size": 21697
         },
         {
             "path": "ui-unit-desktop-1.10.0-5ba072b3ad846d10195aa20b1dda94a.jar",
+            "sha256": "f0f3439928b3d9132f07cb2d7a86091696372ebc8354d16b48830b6ce15e8161",
+            "size": 85587
         },
         {
             "path": "ui-util-desktop-1.10.0-e987f56512148332ca73168ad7d270d.jar",
-
+            "sha256": "7bfc93a8cad2974cdfd5a2c817e3083e0e3c48ef99e4dbba51eb98a14c92ed2d",
+            "size": 18548
         }
     ]
 }
