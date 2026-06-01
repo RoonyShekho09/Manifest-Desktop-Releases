@@ -52,9 +52,9 @@
             "size": 61829
         },
         {
-            "path": "composeApp-jvm-1.0.3-d581b55f3379f0e487d2fdaa14ca9be.jar",
-            "sha256": "333ecaf21f6f72df820e02064b2705fd938b8e8c72fdc71ec6f2cd60154b5f1d",
-            "size": 1640309
+            "path": "composeApp-jvm-1.0.3-e1bcff3d634fcec8bd257bfb86fc068.jar",
+            "sha256": "07e78a59f9bf7056ee79c31ac3e175c66da5fd5fa3bdddeb506ae0fdbb7b941a",
+            "size": 1638718
         },
         {
             "path": "core-3.5.3-b5269d7bf1eea1d06424c342829b117.jar",
@@ -438,8 +438,8 @@
         },
         {
             "path": "Manifest.cfg",
-            "sha256": "af3e4c1837bbddedaab8daa23a618be98e477523943c3e8a0044a98dcc34df7f",
-            "size": 11103
+            "sha256": "e8cd62197f11e1ca8cc1955097548a863cf91a04b644aafc61a25841302a366a",
+            "size": 11104
         },
         {
             "path": "material-desktop-1.10.0-8f108d785527e786557d4884fe34a69.jar",
@@ -587,8 +587,8 @@
             "size": 1213800
         },
         {
-            "path": "skiko-awt-runtime-windows-x64-0.9.37.3-1856c492f73da48f4de2eab40339592.jar",
-            "sha256": "596b43bb8c7213b8b5eb962daead0269fabfd392cf921bd74144461941c965cb",
+            "path": "skiko-awt-runtime-windows-x64-0.9.37.3-bf16f427a12e3e8c1de4ec3c2690b99d.jar",
+            "sha256": "56e696637d36c4d627f39bd157ebe5f96c5c367ba941279405e7878a63593e28",
             "size": 293
         },
         {
