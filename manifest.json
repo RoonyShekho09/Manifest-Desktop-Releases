@@ -3,8 +3,13 @@
     "files": [
         {
             "path": ".jpackage.xml",
-            "sha256": "4ec2d497858f8007fc9cfd099c66bed6f840fa11e072dc3ac84458fd09861688",
-            "size": 195
+            "sha256": "3e482a789c8744fb22a704428c14b144b2a51d8944a744126126b88171a46d56",
+            "size": 282
+        },
+        {
+            "path": "adhan-jvm-0.0.6-f35889709a4b13b6e99b2b88c751f412.jar",
+            "sha256": "d233321e35250054056d60cbf7101efd47cfced6fab5110d9af1ff640b301b91",
+            "size": 56289
         },
         {
             "path": "animation-core-desktop-1.10.0-a94bab3d67a320ccdc2cc2c2c973bc4.jar",
@@ -47,9 +52,9 @@
             "size": 61829
         },
         {
-            "path": "composeApp-jvm-1.0.3-94f79095fdfd63d7fa81c14e44638e60.jar",
-            "sha256": "826e3d3e08965cc70314a2c092d8c6053027d5bcdedf3453d4382618ee785b6d",
-            "size": 1600766
+            "path": "composeApp-jvm-1.0.3-d581b55f3379f0e487d2fdaa14ca9be.jar",
+            "sha256": "333ecaf21f6f72df820e02064b2705fd938b8e8c72fdc71ec6f2cd60154b5f1d",
+            "size": 1640309
         },
         {
             "path": "core-3.5.3-b5269d7bf1eea1d06424c342829b117.jar",
@@ -433,8 +438,8 @@
         },
         {
             "path": "Manifest.cfg",
-            "sha256": "76bf744879536332a572dfa68c1921f7e997f23b9dbdfbba9c8b3720fc984cdb",
-            "size": 11026
+            "sha256": "af3e4c1837bbddedaab8daa23a618be98e477523943c3e8a0044a98dcc34df7f",
+            "size": 11103
         },
         {
             "path": "material-desktop-1.10.0-8f108d785527e786557d4884fe34a69.jar",
@@ -572,9 +577,9 @@
             "size": 66422
         },
         {
-            "path": "sentry-8.42.0-467d263d7329c173195f180b0ec77.jar",
-            "sha256": "11c9526a984c141c80ea2cb5f768a08002d917f2a4000d669ba14168dde27dfb",
-            "size": 1213444
+            "path": "sentry-8.43.0-5c7670b45d7726e1aa978864e87049f.jar",
+            "sha256": "b6ed08b0b4bef2b9f5f260c077d63b34fbdad35488306ec0f2313d4cbdf276b4",
+            "size": 1220060
         },
         {
             "path": "skiko-awt-0.9.37.3-178d7c64e4c735aa3da9c4962f8b9871.jar",
@@ -582,8 +587,8 @@
             "size": 1213800
         },
         {
-            "path": "skiko-awt-runtime-windows-x64-0.9.37.3-673e1838ab454c9fbc2597e319a6893.jar",
-            "sha256": "d8164c4176cf36125d7c30d71f6ce2b637022bc432c47dd30748fe437d7b5b75",
+            "path": "skiko-awt-runtime-windows-x64-0.9.37.3-1856c492f73da48f4de2eab40339592.jar",
+            "sha256": "596b43bb8c7213b8b5eb962daead0269fabfd392cf921bd74144461941c965cb",
             "size": 293
         },
         {
